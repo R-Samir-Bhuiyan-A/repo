@@ -1,6 +1,7 @@
 {
   "plugins": [
     { 
+     "folder":"afk-bot",
       "pluginId": 1,
       "pluginName": "SamplePlugin1",
       "pluginDescription": "This is a sample plugin.",
@@ -8,6 +9,7 @@
       "version": "1.0.0"
     },
     {
+      "folder":"afk-bot",
       "pluginId": 2,
       "pluginName": "SamplePlugin2",
       "pluginDescription": "This is another sample plugin.",
@@ -15,6 +17,7 @@
       "version": "1.0.0"
     },
     {
+      "folder":"afk-bot",
       "pluginId": 3,
       "pluginName": "AFK Bot Plugin",
       "pluginDescription": "This plugin automates the AFK process for Minecraft servers.",
