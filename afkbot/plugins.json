@@ -1,18 +1,21 @@
 {
   "plugins": [
-    {
+    { 
+      "pluginId": 1,
       "pluginName": "SamplePlugin1",
       "pluginDescription": "This is a sample plugin.",
       "pluginUrl": "https://example.com/repo/sampleplugin1.zip",
       "version": "1.0.0"
     },
     {
+      "pluginId": 2,
       "pluginName": "SamplePlugin2",
       "pluginDescription": "This is another sample plugin.",
       "pluginUrl": "https://example.com/repo/sampleplugin2.zip",
       "version": "1.0.0"
     },
     {
+      "pluginId": 3,
       "pluginName": "AFK Bot Plugin",
       "pluginDescription": "This plugin automates the AFK process for Minecraft servers.",
       "pluginUrl": "https://mc.astcart.shop/afk-bot.zip",
